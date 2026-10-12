@@ -1,0 +1,2 @@
+# Research-Based-Cancer-Detection-with-Explainable-AI
+Developed a TensorFlow/Keras-based thyroid image classification application using FibonacciNet, incorporating squeeze-and-excitation blocks, depthwise separable convolutions, and Fibonacci-based channel expansion for benign/malignant predictions; integrated Grad-CAM heatmaps, FastAPI and Streamlit interfaces, and automated DOCX report generation.
